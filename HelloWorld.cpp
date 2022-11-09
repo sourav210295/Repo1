@@ -20,7 +20,7 @@ int main()
     a = b;
     b = temp;
 
-    cout << "\nAfter swapping." << endl;
+    cout << "\nAfter swapping changes." << endl;
     cout << "a = " << a << ", b = " << b << endl;
 
     return 0;
